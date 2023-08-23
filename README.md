@@ -31,7 +31,7 @@ Tableau work
 1. Visualizing Covid-19 cases and deaths up 21 August 2023 (using table)
 2. Visualizing COVID-19 Fatality Rates (using bar chart)
 3. Visualizing Infected Individuals in Each Country (using map chart)
-4. visualization can be seen in https://public.tableau.com/app/profile/muhammad.satrio1881/viz/Covid-19Analysis_16926124024240/Dashboard1 
+4. visualization can be seen in https://public.tableau.com/views/Covid-19Analysis_16926124024240/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Insights
 
