@@ -1,6 +1,6 @@
 Gaining Insights about the Spread and Risks of COVID-19. Preparing, Processing, and Analyzing Datasets using SQL in Google BigQuery, followed by Visualization with Tableau. This project aims to find out about COVID-19 infection and subsequently execute a mass vaccination initiative in regions with the highest transmission rates
 
-Overview
+Workflow
 
 1. Retrieve the dataset from https://ourworldindata.org/covid-deaths.
 2. Import the datasets into Google BigQuery.
